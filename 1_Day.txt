@@ -1,0 +1,229 @@
+1st Day of TCS
+
+Asking less and Listening More 
+Bala Nair $106 == 10,000 Trillion ?
+
+
+Trust is power and..with great power comes great responsibilty ..spider man movie :)
+
+
+
+
+Day2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+from Aftab Mohammad to Everyone:
+WHat's the use of AUthcode- YOu need to login to Ultimatix using Authcode. Password option is temporary.10:10
+Employee Services (GESS/GlobalESS)- Important to remember.10:14
+Learning & COllaboration- iEvolve (Learning Platform)- Important to know10:14
+from Dipak Kumar Gautam to Host (privately):
+yes10:17
+from sudipta gorai to Everyone:
+TASK1- Setting 5 Secret Questios and Answers Path to set secret question--> Ultimatix>Password Management>Ultimatix Password>Set Secret Questions Please set the secret questions and Answers on priority and also do make a note of it for future reference for Account Recovery10:20
+All these tasks are to be set in the evening10:22
+TASK2- Set INDIA domain Password Path to set INDIA Domain password-->Ultimatix>Password Management>Domain Account Management> Change Password/Unlock Account Document--> S1.1 INDIA Domain Password Set Method10:24
+TASK2- Set INDIA domain Password Path to set INDIA Domain password-->Ultimatix>Password Management>Domain Account Management> Change Password/Unlock Account Document--> S1.1 INDIA Domain Password Set Method10:24
+Go to Domain Account (APAC, EMEA, INDIA, NOAM, SOAM, Globe, Digitate) 3. Click on Change Password/Unlock Account10:25
+Enter below details: Date of Joining (dd/mm/yyyy) : <your date of joining> Ultimatix Password : <Use the ultimatix password that you have set for your utilmatix portal> / Authcode : Ultimatix Secret Question : <Any of the 5 secret question set by you will come> Your Secret Answer : Domain : Select “INDIA” as domain from the drop down10:25
+TASK3- TCS eMAIL Selection Path to select eMAIL--> Ultimatix>GESS (Global Employee Self Services)>My Profile>Select Email Document -->S1.2 Email Access process10:29
+It will take 24 hours for the select email option to appear under GESS10:31
+Till the time you get TCS asset the email can be accessed using the below link on personal laptop : Outside TCS Network: https://myapp.tcs.com10:33
+Two step authentication for https://myapp.tcs.com 1. emp id & new ultimatix password 2. emp id and authcode10:34
+Then For logging into exchange mail use Username as your emp ID/ <your emp ID>@tcs.com / INDIA\your emp id and Password as Your India Domain Password.10:34
+from Dipak Kumar Gautam to Host (privately):
+india domain10:34
+from sudipta gorai to Everyone:
+Then For logging into exchange mail use Username as your emp ID/ <your emp ID>@tcs.com / INDIA\your emp id and Password as Your India Domain Password.10:35
+Then For logging into exchange mail use Username as your emp ID/ <your emp ID>@tcs.com / INDIA\your emp id and Password as Your India Domain Password.10:37
+Mobile Damaged: How to login to Ultimatix? Link: https://knome.ultimatix.net/sections/2453810:38
+Response to your GHD tickets will always be sent yo your TCS mail ID10:42
+MAKE SURE TO TO ALWAYS SELECT AND ACTIVATE TCS MAIL BEFORE RAISING ANY GHD TICKET10:42
+Path for iEvolve--> Ultimatix>Menu>Applications>Learning & Collaboration>iEvolve10:43
+can we complete courses from today? - yes you can start doing your courses from this weekend. the ievolve takes 24 hours to get activated.10:44
+Once you have proper access to ievolve first two course that you have to complete the courses information security awareness training & information security quiz10:47
+we already completed these courses as part of internship. do we have to do it again? - yes everything has to be done since you have new emp id10:48
+from Swati Swetalina Prusty to Everyone:
+Link to KnoMe community : [Yesterday 7:34 PM] Swati Prusty https://knome.ultimatix.net/communities/22338-tcs-xperience-1st-july-2021-batch​[Yesterday 7:34 PM] Swati Prusty Link to today's KnoMe community group10:49
+from sudipta gorai to Everyone:
+Knome Navigation Path: Ultimatix -> Menu-> Applications -> Learning & Collaboration -> Knome10:49
+from Swati Swetalina Prusty to Everyone:
+https://knome.ultimatix.net/communities/22338-tcs-xperience-1st-july-2021-batch10:50
+from Aftab Mohammad to Everyone:
+Timesheet we will be discussing in next session!! Plese don't worry10:51
+Now please Pay attention for Salary details!!10:51
+from Paul Joseph to All Attendees:
+What? Mandatory Details : Present Address Permanent Address Bank Details Marital Status PAN Card Details Aadhar Card Details Nationality ------------------------ TimeSheet10:52
+What? Mandatory Details : Present Address Permanent Address Bank Details Marital Status PAN Card Details Aadhar Card Details Nationality ------------------------ TimeSheet10:52
+Where? Ultimatix-Employee Services- Global ESS - My Profile (Please login to Ultimatix only after we tell you)10:52
+When -Within a max 4 days from DOJ10:52
+from sudipta gorai to Everyone:
+GESS will take 24hrs to appear? YES10:53
+Name Change Request: Please go to GESS on Ultimatix. Under My Profile -> basic details -> edit your name and save the changes. The changes made on GESS take 24 hours to reflect on portal from the time of changes being made.10:55
+Path to update your present & permanent address: Ultimatix > Applications -> Employee Services -> GESS (Global Employee Self Services)> My Profile > Basic Details -> Address details 1. Click on create base 2. First Add your present address (Address Type) , fill all the mandatory fields, mark it as primary address and click on save. 3. Click back and again click on create base. 4. Second Add your permanent address (Address Type) , fill all the mandatory fields and click on save. 5. Click on back and wait for 24 hours for the changes to reflect. Please note if you are working from home and is staying there then, the present and permanent address will be same. Then also you have to create the base two times by putting same address and selecting different address type. Make sure always mark the present address as
+
+
+from Aftab Mohammad to Everyone:
+NPR not required!!10:59
+As soon as you have Salary account you can update details from tomorrow11:01
+Send to
+
+
+from Paul Joseph to Everyone:
+Any ISFC code can be updated in GESS portal. All Branch ISFC codes are not available in GESS portal. Since salary is processed through Head office of all the banks there will not be any issue.11:05
+Send to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+om Aftab Mohammad to Everyone:
+Learning Group- LG11:26
+from sudipta gorai to Everyone:
+Tentative LG list and detailed instructions to check schedule will be put up on ion community by today evening11:26
+Three ways to check schedule: 1. https://viewschedule.herokuapp.com 2. Ion community - The Pdf of the schedule will be uploaded. 3. KNOME community (TCS Xperience 1st July 2021 batch) -> media directory -> “Daily Schedules” folder. Note : The access to this community will provided by Monday and hence please avoid checking DAY 3 schedule on Knome community11:27
+from Swati Swetalina Prusty to Everyone:
+https://viewschedule.herokuapp.com/11:32
+Enter SWON Number: (XXXXX) Task Category : Training & Development Task Name : Xperience Learning Charge Type*: Non-Billable : 9 hrs11:38
+from Aftab Mohammad to Everyone:
+SWON- Service Work Order Number11:39
+RMG- Resource Management Group11:43
+from Swati Swetalina Prusty to Everyone:
+Enter SWON Number: (XXXXX) Task Category : Training & Development Task Name : Xperience Learning Charge Type*: Non-Billable : 9 hrs11:46
+from Dipak Kumar Gautam to Host (privately):
+xperience learning11:46
+from Swati Swetalina Prusty to Everyone:
+Ensure Timesheet (TS) is filled daily (SWON–No ) in Ultimatix before 10 AM Please note Timesheet entry will freeze on the next calendar day (end of business hours) Navigation: Ultimatix ->Menu -> Applications -> Employee Services -> Timesheet11:53
+Monday is DAY 3 : so on DAY 3 atleast 2 courses need to be completed11:59
+By mext Thursday : All the courses need to be completed11:59
+from Dipak Kumar Gautam to Host (privately):
+yes12:00
+from Swati Swetalina Prusty to Everyone:
+Yes Nikhil..u can do well in advance also12:00
+https://knome.ultimatix.net/communities/22338-tcs-xperience-1st-july-2021-batch12:02
+1) Login to Ultimatix 2) Use the above Link in a different tab
+Karan...get ur Ultimatix n mail ID activated and then start with mandatory courses12:07
+Check KnoMe community on Sunday evening/Monday morning after 8 AM12:07
+WiFi amount comes by default12:08
+from Aftab Mohammad to Everyone:
+xperience.support@tcs.com12:08
+from Swati Swetalina Prusty to Everyone:
+furniture n all have to be arranged by associates12:08
+xperience.support@tcs.com12:09
+Mail ID
+
+
+
+
+
+Finance Benefits
+
+
+
+from Paul Joseph to Everyone:
+Path for all policies :Ultimatix-> Learning & Collaboration -> Knowmax -> My HR12:26
+from AutoRegister satyendra1.kumar@tcs.com to All Attendees:
+Hi All12:33
+Good afternoon12:33
+Welcome to TCS.12:34
+Tax regime 112:34
+2. Tax Slabs Total Income (Amount in Rs .) Tax Rate Upto 2,50,000 Nil From 2,50,000 to 5,00,000 5% From 5,00,000 to 10,00,000 20% From 10,00,000 and above 30% Surcharge and Cess as applicable12:34
+For tax regime 212:34
+3. Tax Slabs Total Income (Amount in Rs .) Tax Rate Upto 2,50,000 Nil From 2,50,000 to 5,00,000 5% From 5,00,001 to 7,50,000 10% From 7,50,001 to 10,00,000 15% From 10,00,001 to 12,50,000 20% From 12,50,001 to 15,00,000 25% Above 15,00,000 30% Surcharge and Cess as applicable12:34
+To apply investment - Ultimatix My Application Employee Services Global ESS Benefits and Taxes Tax Manager12:35
+Claim for HRA Exemption to be submitted at Ultimatix My Application Employee Services Global ESS Benefits and Taxes Tax Manager
+Declarations TRLP12:35
+from Ullas Karanth to All Attendees:
+More details on Tax Investment Schemes are available at Ultimatix->Learning & Collaboration->Knowmax->Corporate Functions->Finance-Services to TCS Associates->Employee Services->knowledge Bank12:39
+Please refer the TAX manager- under-Ultiatix-Gess-Benefits and Taxes-Tax manger-manage tax declaration.. Click on "I" icon for knowing abt each investment12:41
+Link AAdhar with PAn ASAP.. pls dont wait for last date12:41
+You can edit bank details..pls note the payroll freezdate for avoid delay in salary12:42
+having bank account is not connected with Food card12:42
+Housing loan should be in your name only to take Tax benefit..12:42
+Associates need to check the eligibility and policy in Ultimatixand Claim Application screen before submission of claim. Associate should raise claim at Ultimatix –>Global GESS –> Claims and Advances –> Apply for claims12:43
+To Check Linking PAN with AAdhar---pls check in Income tax site by your login....12:43
+Education loan has tax benefit in Interest portion12:44
+IF YOU ACCEPCT SBWS IN SYSTEM YOU WILL GET INTERNET EXPENSES REIMBURESD IN SALARY12:45
+INTERNET EXPENSES INR 410/- WILL BE REIMBURSED IN SALARY IF YOU ACCEPCT SBWS12:45
+ANY ADDITIONAL INTERNET ALLLOWNCE PLEASE CONNECT WITH YOUR SUPERVISIOR12:46
+BOB CAN BE EDITED ONLY TWICE IN FINACIAL YEAR12:46
+@ kUNAL ALREADY TO FOOD CARD NOT NOT CONNECT WITH HAVING BANK ACCOUNT12:47
+@ kUNAL ALREADY TOLD FOOD CARD NOT NOT CONNECT WITH HAVING BANK ACCOUNT12:47
+TO SELECT TAX REGIME-ULTOMATIX-GESS BENEFITS AND TAXES-TAX MANAGER-TAX REGIME12:48
+GESS CLAIMS NEED TO BE CLAIMED WITHINN 30 DAYS FROM THE INVOICE DATE12:48
+@RAFAT NO12:49
+To refer Policies-Learning & Collaboration –> Knowmax–> My HR -> India Claims Queries- Ultimatix-TCS Global Helpdesk -Raise a New UltimatixTicket -> UltimatixServices -> Global ESS -> Global ESS Claim. Payroll Queries- Ultimatix-TCS Global Helpdesk -Raise a New UltimatixTicket -> UltimatixServices -> India Payroll. Branchwise Finance SPOC details- Chennai: Ratnam.N@tcs.com Hyderabad: Satyendra1.Kumar@tcs.com Kochi & Trivandrum: Ullas.Karanth1@tcs.com Delhi : Delhi.Finance@tcs.com Bangalore : Bangalore.Finance@tcs.com Pune ,Ahmedabad,Indore & Vadodara : Ganesh.dhamdhere@tcs.com Kolkatta & Bhubaneshwar: santanu.m@tcs.com Mumbai : aban.billimoria@tcs.com12:49
+@RIKITHA.. DEFAULT DEFINED IN BOB WILL BE ACTIVE IN BOB UNTILL YOU DEFINE12:50
+NAGPUR PLS CONNECT WITH MUMBAI SPOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

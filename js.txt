@@ -1,0 +1,10 @@
+document.getElementsByTagName("input")[0].value="MUM41"
+
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, '0');
+var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+var yyyy = today.getFullYear();
+
+today = yyyy + '-' + mm + '-' + dd;
+document.getElementsByTagName("input")[1].value=today;
+document.getElementsByTagName("button")[0].click();

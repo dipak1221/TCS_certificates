@@ -1,0 +1,13 @@
+awk 'BEGIN{FS=","}
+
+{
+    if($3>100){
+        print $1,",",$2;
+    }
+}
+
+'
+
+Mango,Landa,140
+Mango,Ama,110
+

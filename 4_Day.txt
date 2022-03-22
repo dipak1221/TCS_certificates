@@ -1,0 +1,30 @@
+Scenario 1: Tricky situations. 
+ 
+Client: Bank  
+ 
+Project overview: Adding functionality to the website 
+ 
+You are a tester. In this project you must test the test cases within 48 hours of receiving them. The project is in a critical phase. At this juncture, you receive the test cases one day late from the developer, Eashwar. This has set you back by one day. Write a mail to your manager Hareesh, giving him a heads up that the testing will be delayed by one day because of this. 
+ 
+Catch: The developer involved is your friend. You don't want to seem like you are blaming him in the mail. 
+
+sc1
+To - Hareesh@tcs.com 
+
+Subject Line: Update on Project 
+
+Dear Hareesh;
+
+I am Dipak kumar Gautam , assign as a tester in XYZ bank project. I am writing to inform you that XYZ bank project is behind schedule by 1 day. 
+
+The project is in a critical phase, Due to the test cases which i got is 1 day late.
+
+The new estimated project completion date is  05.07.2021 .
+
+
+Regards,
+Dipak kumar Gautam
+tester 
+mobile number
+dipak.gautam@tcs.com
+
